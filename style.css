@@ -1,0 +1,12 @@
+/** {
+	border: 1px solid red;
+}*/
+
+
+.thumbs {
+	float: left;
+	width: 250px;
+	padding: 20px;
+	height: 180px;
+	overflow: hidden;
+}
